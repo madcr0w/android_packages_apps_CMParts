@@ -62,13 +62,13 @@
     </PreferenceScreen>
 
     <!-- System Settings -->
-    <PreferenceScreen android:key="system_settings"
+<!--    <PreferenceScreen android:key="system_settings"
         android:title="@string/system_settings_title_head"
         android:summary="@string/system_settings_summary_head">
         <intent android:action="android.intent.action.MAIN"
             android:targetPackage="com.cyanogenmod.cmparts"
             android:targetClass="com.cyanogenmod.cmparts.activities.SystemActivity" />
-    </PreferenceScreen>
+    </PreferenceScreen>-->
 
     <!-- Tablet Tweaks -->
     <PreferenceScreen android:key="tablet_settings"
